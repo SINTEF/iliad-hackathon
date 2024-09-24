@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints
+*.env
+*.DS_Store
+satellites/data
+satellites/video
+
