@@ -8,7 +8,7 @@ The notebooks also conveniently illustrate the tools available to work with remo
 
 ## Prerequisites
 
-We do need an uncomfortably large collection of Python packages. Using Miniforge, you can get started as follows:
+We do need an uncomfortably large collection of Python packages. Using [Miniforge](https://github.com/conda-forge/miniforge), you can get started as follows:
 
 ```sh
 conda create --name iliad-hackathon python=3.12
@@ -19,7 +19,7 @@ mamba install geopandas movingpandas holoviews geoviews
 mamba install satpy pystac pystac-client
 ```
 
-This should pull in everything you need. Since we're pulling from `conda-forge` (where versions move fast), we chose not provide an `environment.yml` file.
+This should pull in everything you need. Since Miniforge is pulling from `conda-forge` (where versions move fast), we chose not provide an `environment.yml` file. If you don't use Miniforge, you need to specifcy the `conda-forge` channel (i.e., `conda install --channel conda-forge package1 packag2`).
 
 ## Usage, Ferrybox
 
