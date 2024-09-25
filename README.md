@@ -63,3 +63,6 @@ Finally, by dragging the GeoTiff from by the last notebook into [QGIS](https://q
 
 - Volker Hoffmann (volker.hoffmann@sintef.no)
 
+## Funding
+
+This work was supported by EU Horizon 2020 and Horizon Europe Research and Innovation Programmes under Grant Agreement No 101037643 and 101094434 (projects [ILIAD](https://ocean-twin.eu) and [AquaINFRA](https://aquainfra.eu)).
