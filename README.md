@@ -59,7 +59,7 @@ Finally, by dragging the GeoTiff from by the last notebook into [QGIS](https://q
 
 ![](./images/CHL_NN_CHL_NN_S3_OCLI_20190603.png)
 
-## Contact and Blame
+## Contact 
 
 - Volker Hoffmann (volker.hoffmann@sintef.no)
 
